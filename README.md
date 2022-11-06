@@ -4,6 +4,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## 題材
 [TypeScriptとReact/Next.jsでつくる実践Webアプリケーション開発](https://amzn.asia/d/hhjvDxf)
+[suportpage](https://gihyo.jp/book/2022/978-4-297-12916-3/support#supportApology)
 
 ## Getting Started
 
@@ -11,7 +12,7 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
+# ora
 yarn dev
 ```
 
